@@ -1,0 +1,105 @@
+.transaction-information{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.coinbase-signup{
+  text-align: center;
+}
+
+.profile-picture{
+  float: left;
+  margin-right: 9px;
+  margin-bottom: 17px;
+}
+
+.clear{
+  clear: both;
+}
+
+.welcome-header{
+  display: inline-block;
+}
+
+.venmo-signup{
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+th{
+    text-align: left;
+}
+
+
+tbody:before {
+    content: "-";
+    display: block;
+    line-height: .2px;
+    color: transparent;
+}
+
+.transaction-row:before{
+  content: "-";
+  display: block;
+  line-height: 29.2px;
+  margin: -2px;
+  color: transparent;
+}
+
+.transaction-row{
+  margin: 10px;
+}
+
+
+tr{
+  padding:0px;
+  width:100%;
+  border:1px solid #BAB1B1;
+  margin: 5px;
+}
+
+
+.input{
+  display: inline-block;
+}
+
+.search-bar{
+  padding-top: 20px;
+  float: right;
+  margin-right: 119px;
+}
+
+.profile-container{
+  margin: 20px auto;
+  background-color: white;
+  width: 1000px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+#user{
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.container {
+  background-color: rgb(234, 234, 234);
+}
+
+body{
+  background-color: rgb(234, 234, 234);
+}
+
+.github{
+  float: left;
+  padding-left: 10px;
+}
+
+.card .card-action a {
+  color: white;
+}
+
+.header{
+  background-color: #29b6f6;
+}
+
